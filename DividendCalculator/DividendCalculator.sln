@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DividendCalculator", "DividendCalculator\DividendCalculator.csproj", "{7DA5FEA9-02E5-4E80-BA73-A81282341475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DividendCalculator.TestProject", "DividendCalculator.TestProject\DividendCalculator.TestProject.csproj", "{8A7ABA1B-2A5A-4A85-8A31-4AD16F411043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA5FEA9-02E5-4E80-BA73-A81282341475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA5FEA9-02E5-4E80-BA73-A81282341475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA5FEA9-02E5-4E80-BA73-A81282341475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA5FEA9-02E5-4E80-BA73-A81282341475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7ABA1B-2A5A-4A85-8A31-4AD16F411043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7ABA1B-2A5A-4A85-8A31-4AD16F411043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7ABA1B-2A5A-4A85-8A31-4AD16F411043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7ABA1B-2A5A-4A85-8A31-4AD16F411043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABCDB84D-37EF-4BC2-ABE1-2D1BE14EE504}
+	EndGlobalSection
+EndGlobal
